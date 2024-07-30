@@ -1,0 +1,10 @@
+1. Open Browser and hit the link --> https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+2. Download your desired JDK version
+3. Install the setup
+4. After Installation go to path --> C:\Program Files\Java\jdk1.8.0_202\bin
+5. copy this address from address bar
+6. set this path in Environment Variable "Path".
+
+
+To check 
+Run "java -version" in CMD.
