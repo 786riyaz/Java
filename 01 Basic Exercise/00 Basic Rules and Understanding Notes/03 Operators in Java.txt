@@ -1,0 +1,51 @@
+==============================================================
+Arithmetic Operators
++ 	→	 Addition
+- 	→	 Subtraction
+* 	→	 Multiplication
+/ 	→	 Division
+% 	→	 Modulus (Remainder)
+==============================================================
+Unary Operators
++ 	→	 Unary plus
+- 	→	 Unary minus
+++ 	→	 Increment
+-- 	→	 Decrement
+! 	→	 Logical NOT
+==============================================================
+Assignment Operators
+= 	→	 Assignment
++= 	→	 Add and assign
+-= 	→	 Subtract and assign
+*= 	→	 Multiply and assign
+/= 	→	 Divide and assign
+%= 	→	 Modulus and assign
+==============================================================
+Relational / Comparition Operators
+== 	→	 Equal to
+!= 	→	 Not equal to
+> 	→	 Greater than
+< 	→	 Less than
+>= 	→	 Greater than or equal to
+<= 	→	 Less than or equal to
+==============================================================
+Logical Operators
+&& 	→	 Logical AND
+|| 	→	 Logical OR
+! 	→	 Logical NOT
+==============================================================
+Bitwise Operators
+& 	→	 Bitwise AND
+| 	→	 Bitwise OR
+^ 	→	 Bitwise XOR
+~ 	→	 Bitwise NOT
+<< 	→	 Left shift
+>> 	→	 Right shift
+>>> →	 Unsigned right shift
+==============================================================
+Ternary Operator
+?: 	→	 Conditional operator
+==============================================================
+Type Comparison Operator
+instanceof 	→	 Instanceof operator
+==============================================================

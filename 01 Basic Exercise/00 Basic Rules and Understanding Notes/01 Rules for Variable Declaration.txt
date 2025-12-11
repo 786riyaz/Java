@@ -1,0 +1,6 @@
+Must declare a variable with a data type.
+Name must start with a letter, _, or $. $ is not recommended
+Name can contain letters, digits, _, or $ after the first character.
+Variable names are case-sensitive.
+Cannot use Java reserved keywords as variable names.
+Local variables must be initialized before use.
