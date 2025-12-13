@@ -9,3 +9,17 @@ System.out.println
 
 Method OverLoading
 Method OverRiding
+
+String is immutable
+
+Type casting
+	Implicit
+	Explicit
+
+constant with final
+
+1. What is a method?
+2. Difference between static and non-static methods?
+3. What is method overloading?
+4. What is a return type?
+5. What is method signature?
