@@ -1,3 +1,6 @@
+James Gosling -- Sun MicroSystem
+Oak ===> Java (1995)
+
 Class Name must match with File Name
 
 // Comment
