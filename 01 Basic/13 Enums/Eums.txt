@@ -1,0 +1,9 @@
+public enum Name {
+    "RIYAZ", "ARBAZ", "TASIN"
+}
+
+Name.RIYAZ
+
+
+valueOf()
+values()

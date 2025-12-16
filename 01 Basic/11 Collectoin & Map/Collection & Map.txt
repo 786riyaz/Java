@@ -1,0 +1,35 @@
+Collection
+    List                (Interface)
+        ArrayList       (Class)
+        Vector          (Class)
+        LinkedList      (Class)
+    Queue               (Interface)
+     Priority Queue     (Class)
+     LinkedList         (Class)
+    Set                 (Interface)
+        HashSet         (Class)
+        LinkedHasSet    (Class)
+        TreeSet         (Class)
+        SortedSet       (Interface)
+
+
+
+Map
+    HashTable           (Class)
+    HashMap             (Class)
+    SortedMap           (Interface)
+        TreeMap         (Class)
+        
+
+Collection Interface :: The Root interface of the collection hierarchy. It declares basic operations like add, remove, clear and size.
+
+List Interface :: Ordered Collection. Allow Duplicate Elements. Fast Random Access. Grows Automatically. 
+    add, remove, get, set, size, clear, contains, indexOf
+
+
+=================================================================================================
+=================================================================================================
+=================================================================================================
+
+Map 
+    put, get, remove, containsKey, keySet, values

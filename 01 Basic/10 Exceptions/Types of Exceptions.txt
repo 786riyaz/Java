@@ -1,0 +1,17 @@
+Types of Exceptions
+    User-Defined Exceptions
+    Built-In Exceptions
+        Checked Exceptions
+            ClassNotFoundException
+            InterruptedException
+            IOException
+            InstantiationException
+            SQLException
+            FileNotFoundException
+        Unchecked Exceptions
+            ArithmeticException
+            ClassCastException
+            NullPointerException
+            ArrayIndexOutOfBoundsException
+            ArrayStoreException
+            IllegalThreadStateException
