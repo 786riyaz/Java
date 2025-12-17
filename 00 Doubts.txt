@@ -7,3 +7,7 @@ What is multiple inheritance
 Why it is not allowed in Java
 Static Keyword
 JDK vs JRE vs JVM
+
+string builder vs string buffer
+annotation
+What is runnable

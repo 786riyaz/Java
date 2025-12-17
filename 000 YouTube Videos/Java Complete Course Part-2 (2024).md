@@ -12,7 +12,7 @@ Complete Coding by Prashant Sir
 #6.2 (2:04:22) Instance Variables and Methods 💱 
 #6.3 (2:14:35) Declaring and Using Objects ⬇ 
 #6.4 (2:31:50) Class vs Object 🌍 
-#6.5 (2:39:22) This & Static Keyword 🔒 
+#6.5 (2:39:22) This & Static Keyword 🔒
 #6.6 (3:01:30) Constructors & Code Blocks ⚡ 
 #6 (3:25:54) Programming Challenge 51-52 🙅‍♂️
 #6.7 (3:47:57) Stack vs Heap Memory 🍕

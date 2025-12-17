@@ -26,3 +26,15 @@ constant with final
 3. What is method overloading?
 4. What is a return type?
 5. What is method signature?
+
+static method in interfaces
+
+Polymorphism
+    Compile time 
+        Method Overloading
+        Operator Overloading
+    RunTime Polymorphism
+        Method Overriding
+
+
+try with resource

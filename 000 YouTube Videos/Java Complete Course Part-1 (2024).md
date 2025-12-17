@@ -67,6 +67,6 @@ https://www.youtube.com/watch?v=PymbRTMb4hY&list=PL78RhpUUKSweClRi_l05UgfE3053-z
 #5.4 (8:22:55) Return statement x
 #5.5 (8:36:42) Arguments 🚩
 #4 (8:50:23) Programming Challenge 28-39 🙅‍♂️
-#5.6 (11:02:13) Arrays 🧮 
+#5.6 (11:02:13) Arrays 🧮                       
 #5.7 (11:39:36) 2D Arrays ⌨️ 
 #5 (11:56:53) Programming Challenge 40-50 🙅‍♂️
