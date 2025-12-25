@@ -1,0 +1,45 @@
+start.spring.io
+spring cloud netflix
+
+What is the gradle and maven
+what is kotlin and groovy
+What is JAR and WAR
+what is pom.xml
+what is JPA dependency
+what is hibernate
+what is the return type of constructor
+what is Collections Framework
+what is keyclock
+what is optionals
+
+### 6.9 Variable Scope
+* Local
+* Instance
+* Static
+* Block scope
+
+### 7.10 StringBuffer vs StringBuilder
+
+### 8.4 Access Modifiers
+| Modifier  | Scope           |
+| --------- | --------------- |
+| private   | Same class      |
+| default   | Same package    |
+| protected | Package + child |
+| public    | Everywhere      |
+
+### 8.10 Nested & Inner Classes
+* Static nested
+* Non-static inner
+* Anonymous classes
+
+### 12.7 Thread Communication
+wait();
+notify();
+
+what is @RestController, @RequestMapping, @getMapping, @PathVariable, @RequestBody, @AutoWired, @Valid, @NotBlank, @Email, @Size, @Document, @Data, @Builder, @Id, @Field, @CreatedDate, @LastModifiedDate, @Bean
+
+Spring beans, Ioc
+Spring Proxies, Reflections, Cacheable, CGLIB
+Spring AOP, Point cuts, Proxies usage
+
