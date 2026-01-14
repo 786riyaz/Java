@@ -1,0 +1,118 @@
+The terms **JDK**, **JRE**, and **JVM** are closely related components of the Java platform, but they serve distinct purposes. The differences are best understood by looking at their roles and how they fit together.
+
+---
+
+## JVM (Java Virtual Machine)
+
+![Image](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/JVM-Model.jpg)
+
+![Image](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Working-of-JVM.jpg)
+
+**What it is**
+The **JVM** is an abstract machine responsible for **executing Java bytecode**.
+
+**Key responsibilities**
+
+* Loads `.class` files (bytecode)
+* Verifies bytecode for security
+* Converts bytecode into machine-specific instructions
+* Manages memory (Heap, Stack, Garbage Collection)
+* Ensures platform independence (“Write Once, Run Anywhere”)
+
+**Important points**
+
+* JVM does **not** understand Java source code (`.java`)
+* Different operating systems have different JVM implementations
+* JVM is included inside the JRE
+
+---
+
+## JRE (Java Runtime Environment)
+
+![Image](https://media.geeksforgeeks.org/wp-content/uploads/20251004105618535925/jvm.webp)
+
+![Image](https://docs.oracle.com/cd/E19455-01/806-3461/images/nancb1.eps.gif)
+
+**What it is**
+The **JRE** provides everything required to **run** a Java application.
+
+**Contains**
+
+* JVM
+* Core Java class libraries (e.g., `java.lang`, `java.util`)
+* Supporting runtime files
+
+**Use case**
+
+* Ideal for **end users** who only need to run Java programs
+* Cannot compile Java source code
+
+**Important points**
+
+* JRE = JVM + Libraries
+* No development tools like `javac`
+
+---
+
+## JDK (Java Development Kit)
+
+![Image](https://miro.medium.com/1%2AMHpdx5oni3ymFQDKDFbWLQ.png)
+
+![Image](https://www.boardinfinity.com/blog/content/images/2022/11/Your-paragraph-text--66-.jpg)
+
+**What it is**
+The **JDK** is a full-featured kit for **developing, compiling, debugging, and running** Java applications.
+
+**Contains**
+
+* JRE (and hence JVM)
+* Development tools:
+
+  * `javac` (compiler)
+  * `java` (launcher)
+  * `javadoc`
+  * `jar`
+  * Debugging and monitoring tools
+
+**Use case**
+
+* Required for **Java developers**
+* Can both compile and run Java programs
+
+---
+
+## Relationship Summary
+
+```
+JDK
+ └── JRE
+      └── JVM
+```
+
+---
+
+## Comparison Table
+
+| Aspect                     | JVM            | JRE       | JDK        |
+| -------------------------- | -------------- | --------- | ---------- |
+| Executes bytecode          | Yes            | Yes       | Yes        |
+| Runs Java programs         | Yes            | Yes       | Yes        |
+| Compiles Java code         | No             | No        | Yes        |
+| Includes development tools | No             | No        | Yes        |
+| Intended for               | Runtime engine | End users | Developers |
+
+---
+
+## Simple Analogy
+
+* **JVM** → Engine of a car
+* **JRE** → Car (engine + basic components to drive)
+* **JDK** → Car factory (tools to build and test the car)
+
+---
+
+If you want, I can also provide:
+
+* A one-line interview-ready explanation
+* A memory trick for quick recall
+* A real-world example using `.java` → `.class` → execution flow
