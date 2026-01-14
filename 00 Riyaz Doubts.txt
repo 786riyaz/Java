@@ -43,3 +43,5 @@ Spring beans, Ioc
 Spring Proxies, Reflections, Cacheable, CGLIB
 Spring AOP, Point cuts, Proxies usage
 
+=================================================================
+is java multithreded
