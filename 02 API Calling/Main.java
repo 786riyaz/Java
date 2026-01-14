@@ -4,7 +4,6 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class Main {
-
     public static void main(String[] args) throws Exception {
 
         // Create HTTP client
@@ -24,3 +23,14 @@ public class Main {
         System.out.println(response.body());
     }
 }
+
+
+/*
+E:\GIT\Java>cd "e:\GIT\Java\02 API Calling\" && javac Main.java && java Main
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+*/
